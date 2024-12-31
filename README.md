@@ -52,8 +52,3 @@ The Wine dataset contains data about different types of wines, classified into t
 
 ---
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/wine-dataset-analysis.git
